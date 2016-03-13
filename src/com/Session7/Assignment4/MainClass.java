@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class MainClass {
 
 	/*
+	 * Main Objective : Handle StringIndexOutOfBound Exception. It will occur whenever an index is invoked of a string,
+	 * which is not in the range.
+	 * 
+	 * Program Description 
 	 * Print reverse of a given String value.
 	 * 
 	 */
